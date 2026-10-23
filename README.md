@@ -9,6 +9,9 @@ I'm developing skills in Python, SQL, SAS, pandas, NumPy, statistical analysis, 
 ### [NYC Taxi Trip Quality & Fare Anomaly Analysis](https://github.com/ashleyydees93/NYC-Taxi-Data-Analysis)
 Analyzed 21,932 NYC taxi trips using Databricks SQL. Cleaned data, calculated implied travel speeds, investigated unusual fares, and documented findings and limitations. Includes a SQL notebook and visualization.
 
+### [Weather Data Collection & Analysis](https://github.com/ashleyydees93/Weather-Data-Pipeline)
+Built a Python weather data pipeline using the Open-Meteo API to collect temperature and wind observations for four North Carolina cities. Organized data with pandas, exported CSV results, and created a Matplotlib comparison chart.
+
 ### [Python Data Analysis Portfolio](https://github.com/ashleyydees93/python-data-analysis-portfolio)
 Projects using pandas, NumPy, Matplotlib, statistical simulation, and Python problem-solving.
 
